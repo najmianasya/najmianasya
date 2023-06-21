@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### 🌱 I’m currently learning Information Systems
+#### 📫 How to reach me: najmianasya12@gmail.com
+#### 😄 Pronouns: She/Her
+
 
 <!--
 **najmianasya/najmianasya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
